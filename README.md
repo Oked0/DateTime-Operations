@@ -19,7 +19,7 @@
 
 Клонируйте репозиторий:
 git clone https://github.com/Oked0/DateTime-Operations.git
-cd DateTime-Operations****
+cd DateTime-Operations
 
 Откройте решение в Visual Studio:
 DateTimeOperations.sln
