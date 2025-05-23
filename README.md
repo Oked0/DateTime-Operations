@@ -17,8 +17,7 @@
 
 ## Запуск проекта
 
-1. Клонируйте репозиторий:
-
+Клонируйте репозиторий:
 git clone https://github.com/Oked0/DateTime-Operations.git
 cd DateTime-Operations****
 
